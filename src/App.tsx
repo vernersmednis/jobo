@@ -1,7 +1,7 @@
-import { Swipe } from "@/features/swipe"
+import { Matches } from "@/features/matches"
 
 function App() {
-  return <Swipe />
+  return <Matches />
 }
 
 export default App
